@@ -19,9 +19,9 @@ I specialize in leveraging Machine Learning, Natural Language Processing (NLP), 
 💼 Projects & Work Experience
 Data Science/Automation Expert, Sensor6ty/AI4sense
 
-Fine-tuned large language models like Llama 2 for Q&A systems.
-Automated tasks using Microsoft Power Platform (Teams, SharePoint, etc.).
-Applied homography techniques for player tracking in basketball.
+Fine-tuned large language models like Llama 2 for Q&A systems. 
+Automated tasks using Microsoft Power Platform (Teams, SharePoint, etc.). 
+Applied homography techniques for player tracking in basketball. 
 
 Conducted tutorials and prepared materials on topics like Algebra and Functional Analysis.
 🛠️ Skills
