@@ -24,14 +24,16 @@ Automated tasks using Microsoft Power Platform (Teams, SharePoint, etc.).
 Applied homography techniques for player tracking in basketball. 
 
 Conducted tutorials and prepared materials on topics like Algebra and Functional Analysis.
+
+
 🛠️ Skills
 Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, etc.), R, SQL.
 Tools & Platforms: Microsoft Azure, Power Platform, Tableau, Hadoop.
 Soft Skills: Teamwork, Problem-solving, Mentorship.
+
 🎖️ Achievements & Certifications
 Microsoft Certified: Azure AI Engineer Associate, Azure Data Scientist Associate, Power Platform Fundamentals.
 Coursera & Udemy: AI for Medical Diagnosis, Deep Learning Specialization.
-See my full CV here.
 
 ⚡ Fun Fact
 I’m fascinated by using AI to improve clinical outcomes and streamline workflows.
