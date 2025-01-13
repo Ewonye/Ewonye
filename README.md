@@ -6,11 +6,16 @@ Hi! I'm Khadija Ewonye Yakubu, a passionate Data Scientist and an automation exp
 I specialize in leveraging Machine Learning, Natural Language Processing (NLP), and Microsoft AI tools to solve complex problems and automate business processes.
 
 🌟 About Me
+
 🌱 Currently deepening my expertise in Big Data and AI.
+
 💡 Strong interests in NLP, Image Processing, Medical Imaging, and Data Science.
+
 🤝 Actively participate in platforms like ZINDI and Kaggle, where I’ve joined competitions and the 2021 ZINDI Mentorship Program.
 🧑‍🏫 Experienced in teaching and mentoring interns in AI-driven projects.
+
 📫 Let’s connect on LinkedIn.
+
 💼 Projects & Work Experience
 Data Science/Automation Expert, Sensor6ty/AI4sense
 
