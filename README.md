@@ -36,5 +36,5 @@ Microsoft Certified: Azure AI Engineer Associate, Azure Data Scientist Associate
 Coursera & Udemy: AI for Medical Diagnosis, Deep Learning Specialization.
 
 ⚡ Fun Fact
-I’m fascinated by using AI to improve clinical outcomes and streamline workflows.
+I’m fascinated read alot of novels.
 
